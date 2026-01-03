@@ -8,8 +8,8 @@ This project classifies tweets as **disaster-related or not** using **Natural La
 - **Feature Extraction**: TF-IDF vectorization
 - **Model Training & Evaluation**: Multinomial Naïve Bayes, Logistic Regression, and K-Nearest Neighbors (KNN)
 - **Accuracy**:
-  - **Multinomial Naïve Bayes**: 75.9%
-  - **Logistic Regression**: 80%
+  - **Multinomial Naïve Bayes**: 90.78%
+  - **Logistic Regression**: 89%
   - **KNN**: 66%
 
 ## Installation
